@@ -1,0 +1,85 @@
+<img width="200" height="200" src="J&K.jpeg" alt="" class="imageReveal"> 
+                <div class="overlay"></div>
+                <button> Book now <i class="fa-solid fa-arrow-right"></i></button>
+                
+            </div>
+
+            <div class = "products-box">
+                <h3 style="padding: 20px;">Paris</h3>
+                <img width="200" height="200" src="paris.jpeg" alt="" class="imageReveal">
+                <div class="overlay"></div>
+                <button> Book now <i class="fa-solid fa-arrow-right"></i></button>
+            </div>
+
+            <div class = "products-box">
+                <h3 style="padding: 20px;">Malaysia</h3>
+                <img width="200" height="200" src="malaysia.jpeg" alt="" class="imageReveal">
+                <div class="overlay"></div>
+                <button> Book now <i class="fa-solid fa-arrow-right"></i></button>
+            </div>
+
+            <div class = "products-box">
+                <h3 style="padding: 20px;">Malideves</h3>
+                <img width="200" height="200" src="malideves.jpeg" alt="" class="imageReveal">
+                <div class="overlay"></div>
+                <button> Book now <i class="fa-solid fa-arrow-right"></i></button>
+                <p>Malideves</p>
+            </div>
+
+            <div class = "products-box">
+                <h3 style="padding: 20px;">San fransisco</h3>
+                <img width="200" height="200" src="San fransisco.jpeg" alt="" class="imageReveal">
+                <div class="overlay"></div>
+                <button> Book now <i class="fa-solid fa-arrow-right"></i></button>
+            </div>
+
+            <div class = "products-box">
+                <h3 style="padding: 20px;">Singapore</h3>
+                <img width="200" height="200" src="Singapore.jpeg" alt="" class="imageReveal">
+                <div class="overlay"></div>
+                <button> Book now <i class="fa-solid fa-arrow-right"></i></button>
+            </div>
+
+            <div class = "products-box">
+                <h3 style="padding: 20px;">Italy</h3>
+                <img width="200" height="200" src="italy.jpeg" alt="" class="imageReveal">
+                <div class="overlay"></div>
+                <button> Book now <i class="fa-solid fa-arrow-right"></i></button>
+            </div>
+
+            <div class = "products-box">
+                <h3 style="padding: 20px;"> Bali </h3>
+                <img width="200" height="200" src="bali.jpeg" alt="" class="imageReveal">
+                <div class="overlay"></div>
+                <button> Book now <i class="fa-solid fa-arrow-right"></i></button>
+            </div>
+        </div>
+        </div>
+
+
+<!--Footer-->
+
+<div class="fotter">
+    <div class="footer-container">
+        <div class="footer-box-1">
+            <h2 class="headingText">Shastra</h2>
+            <p>"Blueflix- Where Every Trip is a Blockbuster"</p>
+            <p2>"From Beaches to Skylines"</p2>
+            <div class="footer-icon-container">
+                <i class="fa-brands fa-instagram" style="color:black"></i>
+                <i class="fa-brands fa-twitter" style="color:black"></i>
+                <i class="fa-brands fa-facebook" style="color:black"></i>
+            </div>
+        </div>
+    </div>
+
+    <p>@ 2025 Blueflix Vacations.com</p>
+</div>
+
+
+
+</div>
+    <script src="collection.js"></script>
+</body>
+
+</html>
