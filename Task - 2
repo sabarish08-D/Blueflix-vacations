@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blueflix Vacations</title>
+
+    <!--Google Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap"rel="stylesheet">
+
+    <!--My Css-->
+    <link rel="stylesheet" href="style.css">
+
+    <!--Font Awesome Icons-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <!--Navbar-->
+    <nav class="navbar">
+        <h1>Blueflix Vacations ✈️</h1>
+
+        <div class="navbar-links">
+            <p class="navbar-link"><a href="index.html">Home</a></p>
+            <p class="navbar-link"><a href="collection.html">Places </a></p>
+            <p class="navbar-link"><a href="contact.html">Contact</a></p>
+            <p class="navbar-link"><a href="Packages.html">Packages</a></p>
+            <p class="navbar-link"><a href="Group Tours.html">Group Tours</a></p>
+            <p class="navbar-link"><a href="Enquire now.html">Enquire now</a></p>
+            <p class="navbar-link"><a href="Budget.html">Budget</a></p>
+         </div>
+
+         <div class="navbar-menu-toggle"onclick="showNavbar()">
+            <i class="fa-solid fa-bars"></i>
+         </div> 
+
+    </nav>
+
+    <!--Side Navbar-->
+    <div class="side-navbar">
+        <p style="text-align: right;" onclick="closeNavbar()">
+            <i class="fa-solid fa-xmark"></i>
+        </p>
+
+        <div class="side-navbar-links">
+           <p class="navbar-link"><a href="index.html">Home</a></p>
+            <p class="navbar-link"><a href="collection.html">Collections</a></p>
+            <p class="navbar-link"><a href="collection.html">Contact</a></p>
+         </div>
+
+        </div>
+    </div> 
+
+
+     <!--Product-->
+     <div class="product-section">
+        <form class="product-search">
+            <input type="text" id="search" placeholders="Search">
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </form>
+    </div>
+    <div>
+        <i class=""></i>
+        <h3>What we provide..!!</h3>
+        <p>Blueflix Vacations Pvt. Ltd is a subsidiary of Group of Hotels, one of the biggest hotel chains in south Tamil Nadu. The Group of Hotels founded in 1968 has for forty years provided impeccable service and outstanding hospitality. It currently has 19 properties in Tamil Nadu. Blueflix Vacations Pvt. Ltd built on this strong foundation aims to provide great customer satisfaction and an exemplary holiday experience. Planning a once in a lifetime holiday or a yearly corporate retreat?
+             No problem! Blueflix Vacations can get you what you want and in the minimal time. One of the best destination management companies in South India, it has the experience and infrastructure to handle any customer demand. In addition to destination management, Blueflix Vacations also plans corporate tours, incentive trips, college/school excursions, business travel, arranges car/railway & hotel bookings and much, much more.Best vacation packages
+              Discover what makes Blueflix Vacations and its offerings distinct from the rest of the pack and indispensable to its customers.</p>
+            
+    </div>    
+
+        <div>
+            <h2 style="padding: 10px;">International Trips</h2>
+        
+
+        <div class="products" id="products">
+
+            <div class = "products-box">
+                <h3 style="padding: 20px;">Jammu & Kashmir</h3>
